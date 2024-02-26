@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    align-items: center;
+    background : #000;
+    color: white;
+    height: 10vh;
+}
+.header2{
+    display: flex;
+    align-items: center;
+    background : gray;
+    color: white;
+    height: 10vh;
+}
+/* box sizing notes re-read*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon{
+    color: aliceblue;
+    padding: 0.5rem;
+    margin-right: 1rem;
+}
+.search{
+    padding: 0.5rem;
+    width: 700px;
+    margin-left: 2rem;
+}
+.icon1{
+    color: black;
+    background-color: yellow;
+    padding: 0.58em;
+    margin-right: 2rem;
+}
+.icon2{
+    padding: 0.5rem;
+    
+}
+.flex2{
+    display: flex;
+    flex-direction:row ;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    margin-right: 1 rem;
+}
+
